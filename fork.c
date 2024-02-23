@@ -1,3 +1,4 @@
+// Single child process using fork system call
 #include<stdio.h>
 #include<sys/types.h>
 #include<unistd.h>
